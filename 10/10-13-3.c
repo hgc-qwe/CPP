@@ -19,6 +19,6 @@ int main(){
     int str[6]={4,5,2,7,18,98};
     int m=6;
     int y=max(str,m);
-    printf("%d\n",y);
+    printf("\n%d\n",y);
     return 0;
 }
